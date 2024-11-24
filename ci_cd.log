@@ -1,0 +1,4 @@
+2024-11-24 19:27:35,232 - Deployment started.
+2024-11-24 19:27:35,232 - Deployment failed: Simulated deployment failure!
+2024-11-24 19:27:35,547 - Rollback started.
+2024-11-24 19:27:35,547 - Rollback completed successfully.
