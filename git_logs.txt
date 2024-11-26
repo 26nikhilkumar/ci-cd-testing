@@ -1,0 +1,15 @@
+Auto-merging file1.txt
+CONFLICT (content): Merge conflict in file1.txt
+<<<<<<< HEAD
+Content from branch A
+=======
+Content from branch B
+>>>>>>> branch-b
+
+Auto-merging file2.txt
+CONFLICT (content): Merge conflict in file2.txt
+<<<<<<< HEAD
+More content from branch A
+=======
+Other content from branch B
+>>>>>>> branch-b

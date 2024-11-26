@@ -1,0 +1,10 @@
+stages:
+  - merge
+  - analyze
+
+analyze_conflicts:
+  stage: analyze
+  script:
+    - python model_c.py
+  only:
+    - merge_requests
